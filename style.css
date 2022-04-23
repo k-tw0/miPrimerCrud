@@ -1,0 +1,26 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.table {
+  width: 715px;
+}
+
+.seccion-dinamica-html {
+  width: 800px;
+  margin: 0 auto;
+}
+.title-form {
+  text-align: center;
+}
+
+.formulario-container {
+  width: 750px;
+}
+
+img {
+  width: 40px;
+  height: 20px;
+}
